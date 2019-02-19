@@ -28,7 +28,7 @@ This script will read a csv file to get a list of compliance report names and em
 
 ### Configuration
 
-1. Navigate to *compliance_pull_email/config/configs.yml*
+1. Navigate to *compliance_report_email/config/configs.yml*
 
 2. Fill out your RedLock username, password, and customer name - if you are the only customer in your account then leave this blank.
 
